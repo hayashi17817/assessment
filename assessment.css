@@ -15,9 +15,8 @@ button {
 input {
   height: 22px;
 }
-#result-area {
+#result-area, #tweet-area {
   text-align: left;
-}
-#tweet-area {
-  text-align: left;
+  width: 400px;
+  margin: 20px auto;
 }
